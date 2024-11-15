@@ -42,6 +42,8 @@ To view my portfolio locally, follow these steps:
   - **JavaScript**: Adds interactivity (smooth scroll, dynamic sections).
   - **Bootstrap**: (Optional) For grid systems and responsive layouts.
   - **jQuery**: (Optional) For easier DOM manipulation and event handling.
+  ## Live On
+  You can see it https://portfolio-abhishek-pandey.onrender.com/ .
   ## Contact
 
 You can reach out to me via the following methods:
